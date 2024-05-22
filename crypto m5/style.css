@@ -1,0 +1,41 @@
+* {
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+
+.input {
+	width:80%;
+	height:40px;
+	padding:10px;
+	margin:10px;
+	border-radius:1px;
+	
+}
+
+.address-main {
+	display:flex;
+	justify-content:center;
+	flex-direction:column;
+	justify-items:center;
+}
+
+.address {
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+.btn {
+	color:white;
+	background-color:#3AB0FF;
+	width:80%;
+	padding:10px;
+	margin:10px;
+}
+
+.input-msg {
+	width:80%;
+	height:70px;
+	padding:10px;
+	margin:10px;
+}
