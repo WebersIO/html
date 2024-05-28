@@ -1,0 +1,71 @@
+* {
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	 font-family: "Sriracha", cursive;
+}
+
+.sriracha-regular {
+  font-family: "Sriracha", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+h1 {
+	text-align:center;
+	color:white;
+}
+
+.box0{
+	height:100vh;
+	background-image:url(https://i.ytimg.com/vi/EvHsuHqtzzw/maxresdefault.jpg);
+	background-attachment:fixed;
+	background-size:cover;
+	/* border:1px solid red; */
+}
+
+.box1{
+	height:100vh;
+	background-image:url(https://cdn.motor1.com/images/mgl/XxGLv/s3/toyota-gr-supra-jarama-racetrack-edition.jpg);
+	background-attachment:fixed;
+	background-size:cover;
+	/* border:2px solid red; */
+}
+
+.box2{
+	height:100vh;
+	background-image:url(https://topgear.com.my/sites/default/files/article-gallery/Toyota%20Supra-1_1_0.jpg);
+	background-attachment:fixed;
+	background-size:cover;
+	/* border:2px solid red; */
+}
+
+.box3{
+	height:100vh;
+	background-image:url(https://www.hdcarwallpapers.com/download/toyota_gr_supra_2019_4k-1280x720.jpg);
+	background-attachment:fixed;
+	background-size:cover;
+	/* border:2px solid red; */
+}
+
+.box4{
+	height:100vh;
+	background-image:url(https://www.hdwallpapers.in/download/toyota_gr_supra_2_0_fuji_speedway_edition_2021_4k_hd_cars-1366x768.jpg);
+	background-attachment:fixed;
+	background-size:cover;
+	/* border:2px solid red; */
+}
+
+.box5{
+	height:100vh;
+	background-image:url(https://img.indianautosblog.com/2021/05/25/toyota-supra-fast-and-furious-side-1392.jpg);
+	background-attachment:fixed;
+	background-size:cover;
+	/* border:2px solid red; */
+}
+
+.footer {
+	/* border:1px solid red; */
+	height:100vh;
+}
