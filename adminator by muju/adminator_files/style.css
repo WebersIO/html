@@ -1,0 +1,8 @@
+* {
+	font-family:sans-sarif;
+	box-sizing:border-box;
+}
+
+.line-dashboard {
+	border:1px solid gray;
+}

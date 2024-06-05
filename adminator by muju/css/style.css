@@ -1,0 +1,15 @@
+* {
+	font-family:sans-sarif;
+	box-sizing:border-box;
+	font-family: "Kanit", sans-serif;
+	
+}
+
+.line-dashboard {
+	
+	box-shadow:2px 2px 2px grey;
+}
+
+.color-primary {
+	color:#8B817B;
+}
